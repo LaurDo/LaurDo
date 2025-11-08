@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaurDo, I am a third year Cybersecurity major at Northeastern with a concentration in Cyber Operations.
+- 👋 Hi, I’m @LaurDo, I am a third year Cybersecurity major at Northeastern University with a concentration in Cyber Operations.
 - 👀 I’m interested in Cybersecurity and I am looking into roles as a SOC Analyst, Digital Forensic Analyst, or Network Security Engineer.
 - 🌱 I’m currently learning: Distributed Systems, System Security, Algorithms and Data, and Digital Design and Computer Architecture. I am also teaching myself more        about Python and SQL in my free time!
 - 📫 How to reach me: downs.l@northeastern.edu
